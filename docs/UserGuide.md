@@ -92,7 +92,7 @@ regarding your students and lessons stress-free and efficiently. In the latest v
 * Efficiently create notes for each class/student
 * View scheduled lessons in a timetable
 
-<p style="page-break-after: always;">&nbsp;</p>
+<div style="page-break-after: always;"></div>
 
 
 ### 1.3 How to use this guide?
