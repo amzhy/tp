@@ -92,6 +92,7 @@ regarding your students and lessons stress-free and efficiently. In the latest v
 * Efficiently create notes for each class/student
 * View scheduled lessons in a timetable
 
+<br>
 ### 1.3 How to use this guide?
 
 #### Step-by-step guide for each feature
@@ -159,6 +160,7 @@ TuitionList Panel | Displays all tuition classes.
 StudentList Panel | Displays all students.
 Main Display Pane | Displays today's lessons, tuition class's or student's details, or a timetable.
 
+<br>
 
 ### 2.2 Try it yourself!
 
@@ -206,7 +208,7 @@ Now that you are more familiar with our app, make it yours! Head over to section
 Refer to the [Additional Command Format Information](#4-additional-command-format-information) under section 4 to learn the requirements of the various parameters used.
    
 </div>
-
+<br>
 ### 3.1 Add student/tuition class
 #### Adding a student: `add` | `a`
 Adds a student with the specified information such as name, phone number, etc. 
@@ -247,7 +249,7 @@ addclass n/Chemistry l/16 ts/Thu 15:00-17:00 s/Bernice Yu,Richard Ng
 ```
 ac n/Math l/8 ts/Mon 11:00-14:00 r/Quiz on final lesson
 ```
-
+<br>
 ### 3.2 View student/tuition class
 Displays the details the specified student or class in the information page.
 
@@ -284,6 +286,7 @@ vc 3
     <i>Figure 3: Displaying details of a class in the information page</i>
 </p>
 
+<br>
 ### 3.3 Edit student/tuition class
 Edits an existing student or tuition class.
 
@@ -332,7 +335,7 @@ An example output of using the `editclass` command is shown below:
     <i>Figure 4: Example of executing `editclass 1 n/Math ts/Wed 10:00-12:00` command</i>
 </p>
 
-
+<br>
 ### 3.4 Delete student/tuition class
 Deletes a student or a tuition class from TutAssistor.
 
@@ -377,7 +380,7 @@ or
 ```
 delc 1 2
 ```
-
+<br>
 ### 3.5 Add/Remove student from class
 
 Moves a student to/from a class.
@@ -431,7 +434,7 @@ remove si/1 tc/1
 ```
 rm si/1 2 3 4 tc/2
 ```
-
+<br>
 ### 3.6 Add remark to student/tuition class
 Upon entering the command, a pop-up window with a text box is displayed for you to edit remarks.
 
@@ -482,6 +485,7 @@ rec 1
 :information_source: Note: When creating a new student or tuition class with the `add` command, you can use the optional `r/REMARK` parameter to add remarks  directly.
 </div>
 
+<br>
 ### 3.7 Find student/tuition class
 Filters the list based on the given keywords. The keywords are case-insensitive.
 <div markdown="span" class="alert alert-primary">
