@@ -94,6 +94,7 @@ regarding your students and lessons stress-free and efficiently. In the latest v
 
 <p style="page-break-after: always;">&nbsp;</p>
 
+
 ### 1.3 How to use this guide?
 
 #### Step-by-step guide for each feature
